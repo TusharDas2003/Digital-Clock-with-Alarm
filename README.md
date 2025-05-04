@@ -1,7 +1,5 @@
 # Digital Clock with Alarm
 
-# Digital Clock with Alarm
-
 ## Overview
 This project is a simple digital clock with an alarm feature implemented in C. It displays the current time in a 24-hour format and allows the user to set an alarm. When the system time matches the alarm time, the program triggers an alarm sound and displays a message.
 
